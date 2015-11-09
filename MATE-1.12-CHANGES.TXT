@@ -1,6 +1,10 @@
 New Packages in MATE 1.12:
-
-Renamed Packages in MATE 1.12:
+glade
+gtkmm3
+gtksourceview3
+libunique3
+libwnck3
+vte3
 
 Packages removed in MATE 1.12:
 libgnomecanvas (no longer needed)
