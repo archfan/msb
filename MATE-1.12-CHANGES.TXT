@@ -14,3 +14,5 @@ mm-common (no longer needed)
 gtksourceview (replaced by gtksourceview3)
 libunique (replaced by libunique3)
 pygobject3 (Added to Slackware)
+pygtksourceview
+gnome-main-menu (not compatible with GTK+3)
