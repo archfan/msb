@@ -1,5 +1,11 @@
 The following is a list of known issues with MATE on Slackware:
 
+Fri Nov 13 23:32:14 UTC 2015
+In GTK+3 build, themes in System > Preferences > Look and Feel > Appearance
+will show a "?" instead of the thumbnail. Same things happened when you tried to
+customize a spesific theme.
+It has been tracked here: https://github.com/mate-desktop/mate-control-center/issues/206
+
 Mon Feb 17 02:02:11 UTC 2014
 If you start MATE Volume Control in Applications > Sounds & Videos,
 sometimes, you will find this error message "no volume control gstreamer
@@ -13,13 +19,9 @@ You can fix this by running these steps:
 MATE Volume Control should be working now
 
 Sat Feb 15 01:01:47 UTC 2014
-Help menus and help buttons are disabled since they require yelp which
+Help menus and help buttons are not working since they require yelp which
 requires more dependencies. For those interested to build yelp, you may
 find the SlackBuild in testing/yelp.
-
-You also need to rebuild some packages, since by default, the SlackBuild
-script is configured to remove help files. You can remove the
---without-help-dir line to produce help files.
 
 Mon Jun 10 03:09:28 UTC 2013
 If you are encountering problems with Caja (MATE's file manager) opening
