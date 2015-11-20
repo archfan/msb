@@ -16,3 +16,4 @@ libunique (replaced by libunique3)
 pygobject3 (Added to Slackware)
 pygtksourceview
 gnome-main-menu (not compatible with GTK+3)
+mate-system-tools (not compatible with GTK+3)
