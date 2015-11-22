@@ -54,10 +54,7 @@ for dir in \
   deps/gksu \
   deps/gssdp \
   deps/gupnp \
-  deps/perl-xml-twig \
-  deps/perl-net-dbus \
-  deps/system-tools-backends \
-  deps/liboobs \
+  deps/gtkmm3 \
   deps/docutils \
   deps/vte3 \
   ; do

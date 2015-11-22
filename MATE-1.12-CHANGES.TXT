@@ -17,3 +17,7 @@ pygobject3 (Added to Slackware)
 pygtksourceview
 gnome-main-menu (not compatible with GTK+3)
 mate-system-tools (not compatible with GTK+3)
+liboobs (dependency of system-tools-backends)
+perl-xml-twig (dependency of system-tools-backends)
+perl-net-dbus (dependency of system-tools-backends)
+system-tools-backends (dependency of mate-system-tools)
