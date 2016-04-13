@@ -24,13 +24,14 @@
 #  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 PRGNAM=mate-icon-theme-faenza
-VERSION=${VERSION:-1.12.0}
+VERSION=${VERSION:-1.14.0}
+BRANCHVER=1.14
 BUILD=${BUILD:-1}
 TAG=${TAG:-_msb}
 
 ARCH=noarch
 
-wget -c http://pub.mate-desktop.org/releases/1.12/$PRGNAM-$VERSION.tar.xz
+wget -c http://pub.mate-desktop.org/releases/$BRANCHVER/$PRGNAM-$VERSION.tar.xz
 
 
 
