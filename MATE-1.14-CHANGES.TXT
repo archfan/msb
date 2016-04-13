@@ -1,3 +1,6 @@
+Packages removed in MATE 1.14
+mate-netspeed (merged into mate-applets)
+
 New Packages in MATE 1.12:
 glade
 gtkmm3
