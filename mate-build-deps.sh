@@ -54,7 +54,6 @@ for dir in \
   deps/gksu \
   deps/gssdp \
   deps/gupnp \
-  deps/gtkmm3 \
   deps/docutils \
   deps/vte3 \
   ; do
